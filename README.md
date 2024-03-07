@@ -24,7 +24,8 @@ pip install pandas numpy scikit-learn nba_api
 - `nuggets_game_logs_2023_24.csv` - Game logs for the Denver Nuggets players for the 2023-24 season.
 - `suns_game_logs_2023_24.csv` - Game logs for the Phoenix Suns players for the 2023-24 season.
 - `df_builder.py` - Contains functions to generate predicted statistics for players.
-- `model.py` - The main script where the model training and simulations are executed.
+- `LinearRegressionPredictors.py` - The main script where the model training and simulations are executed.
+- `data_collector.py` - Script used to generate csv files from the nba_api
 
 ## Usage
 
